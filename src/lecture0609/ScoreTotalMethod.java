@@ -69,8 +69,8 @@ public class ScoreTotalMethod {
     private void displayRanking() {
         String[][] scoreArray = getScoreArrayFromDB();
 
-        Arrays.sort(scoreArray, Comparator.comparingInt(arr -> Integer.parseInt(arr[1])));
-
+        Arrays.sort(scoreArray, Comparator.comparingInt(arr -> Integer.parseInt(arr[3])));
+        System.out.println("중간고사 성적표");
         int rate = 1;
         for (String[] arr : scoreArray) {
             System.out.println(rate + "등: " + Arrays.toString(arr));
