@@ -1,0 +1,9 @@
+
+P
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+o
+java:S1450"TRemove the "pstmt" field and declare it as a local variable in the relevant methods.(õùÉÍüÿÿÿÿ
+Q
+java:S6437"6Revoke and change this password, as it is compromised.(ÅÒ”€ÿÿÿÿÿ
+A
+java:S1068	"&Remove this unused "rs" private field.(ñ¼­”úÿÿÿÿ
