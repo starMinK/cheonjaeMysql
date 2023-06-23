@@ -15,7 +15,3 @@ V
 &src/lecture0608/MemberTotalMethod.java,8\e\8eaf63a1ee623a9bec7fae568a46db5ae5cafa07
 Q
 !src/lecture0612/OracleMember.java,0\3\0364754c0308bb94cbf9f90a06bc9789fbc5ae15
-P
- src/lecture0609/ScoreSelect.java,f\d\fd09ce717025f372e6891d18d20d2387ff268208
-P
- src/lecture0609/ScoreDelete.java,b\b\bb78b0efa0f191e5e81fa1c9d32cc639e0e7bd66
