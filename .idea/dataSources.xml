@@ -24,5 +24,12 @@
       <jdbc-url>jdbc:oracle:thin:@localhost:1521:XE</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="cheonjaedb" uuid="ead4d5b5-abed-47b3-9013-cae1ae3fba73">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/cheonjaedb</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>
